@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361803718799",
+    "project_id": "habit-tracker-b89a4",
+    "storage_bucket": "habit-tracker-b89a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361803718799:android:8806b8c5f850150baf90fa",
+        "android_client_info": {
+          "package_name": "com.mouli.habittracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361803718799-3816nvqqc06igkhpmig048m509qporlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjFdgcJsRfpkD-bFo22NaGn1FQDIbqN5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361803718799-3816nvqqc06igkhpmig048m509qporlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

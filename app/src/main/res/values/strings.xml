@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hab</string>
+    <string name="reminder_channel_name">Hab reminders</string>
+    <string name="reminder_channel_description">Warm habit nudges with literary quotes.</string>
+</resources>
